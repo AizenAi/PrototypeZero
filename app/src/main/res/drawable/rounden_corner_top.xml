@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/blue" /> <!-- Ganti dengan warna latar belakang tombol -->
+    <corners android:radius="20dp" /> <!-- Sesuaikan radius dengan tingkat kelengkungan yang diinginkan -->
+</shape>
